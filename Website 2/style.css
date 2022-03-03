@@ -1,0 +1,159 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #d0e4d0;
+    font-family: 'Shippori Antique B1', sans-serif;
+}
+
+.nav-item a{
+color: grey;
+    margin: 10px;
+    font-weight: 400;
+}
+
+.text1{
+    text-align: center;
+    padding-top: 65px;
+    font-weight: bolder;
+}
+
+.text2{
+    text-align: center;
+    padding-top: 60px;
+}
+
+.sec .btn{
+    margin-top: 30px;
+    padding: 6px 6px;
+    background-color: #00b300;
+
+
+}
+
+.text3{
+    text-align: center;
+    padding-top: 40px;
+}
+
+.text4{
+    text-align: center;
+    padding-top: 10px;
+}
+
+.sect{
+    display: flex;
+    justify-content: center;
+    padding: 60px;
+}
+
+.one,.two{
+    background-color: white;
+    background: white;
+    text-align: center;
+    padding: 30px 80px;
+    border-radius: 5px;
+    margin:4px 10px;
+}
+
+.prc{
+    padding-top: 30px;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    padding-top: 4px;
+    margin: 60px 90px;
+    color: black;
+}
+
+.basic, .pro{
+    background-color: white;
+    background: white;
+    padding: 30px 50px;
+    border-radius: 10px;
+    margin:4px 10px;
+}
+
+.box h5, h1, span{
+    background-color: white;
+    padding: 4px;
+}
+
+.pr, .pro{
+    font-weight: bolder;  
+}
+
+.box h5{
+    font-weight: bold;
+}
+
+.d-grid{
+    margin-bottom: 30px;
+}
+
+.frm{
+    display: flex;
+    justify-content: center;
+
+}
+.frm{
+    padding-top: 70px;
+}
+
+form{
+    background-color: white;
+    background: white;
+    padding: 30px 50px;
+    border-radius: 10px;
+    margin:4px 10px;
+}
+
+form .btn{
+    margin-top: 20px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.log{
+    padding-top: 70px;
+}
+
+.blg{
+    padding-top: 40px;
+}
+
+.update{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+.tr{
+    background-color: white;
+    background: white;
+    text-align: center;
+    padding: 30px 80px;
+    border-radius: 5px;
+    margin:4px 10px;
+}
+
+.upd{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+
+}
+
+footer p{
+    margin-bottom: 0;
+}
+
+
+
+ 
+
+
+
+
